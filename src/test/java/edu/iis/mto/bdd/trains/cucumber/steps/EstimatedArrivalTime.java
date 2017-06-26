@@ -34,5 +34,5 @@ public class EstimatedArrivalTime {
 	    throw new PendingException();
 	}
 
-	
+
 }
